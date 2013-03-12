@@ -1,0 +1,3 @@
+[submodule "src/Lib822"]
+	path = src/Lib822
+	url = git://github.com/DaveRandom/lib822.git
